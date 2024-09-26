@@ -16,3 +16,12 @@
 # Experiments
 - 🧢
 - 👕
+## Keyboard Shortcuts
+Shortcuts I Frequently Use
+Ctrl + C (Copy)
+Ctrl + V (Paste)
+Ctrl + Z (Undo)
+Shortcuts I Would Like to Start Using
+Win + V (Clipboard)
+Win + E (File Explorer)
+Ctrl + W (Close tab)
