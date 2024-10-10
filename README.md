@@ -26,3 +26,6 @@ Shortcuts I Would Like to Start Using
 Win + V (Clipboard)
 Win + E (File Explorer)
 Ctrl + W (Close tab)
+
+- Link to cli.md
+[CLI commands](docs/cli.md)
