@@ -1,6 +1,6 @@
 [
   {
-    "name": "LeBron James"
+    "name": "LeBron James" //Basketball players
   },
   {
     "age": "38"
@@ -14,7 +14,7 @@
     }
   },
   {
-    "name": "Lionel Messi"
+    "name": "Lionel Messi" //Soccer players
   },
   {
     "age": "36"
