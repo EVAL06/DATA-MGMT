@@ -1,0 +1,30 @@
+[
+  {
+    "name": "LeBron James"
+  },
+  {
+    "age": "38"
+  },
+  {
+    "Sport": "Basketball",
+    "Team": {
+      "Name": "Raptors",
+      "City": "Toronto",
+      "Position": "Forward"
+    }
+  },
+  {
+    "name": "Lionel Messi"
+  },
+  {
+    "age": "36"
+  },
+  {
+    "Sport": "Soccer",
+    "Team": {
+      "Name": "Inter Miami",
+      "City": "Miami",
+      "Position": "Forward"
+    }
+  }
+]
